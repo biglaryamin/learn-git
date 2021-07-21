@@ -4,12 +4,4 @@ something typed..:wq
 
 new changes implemented (changed)
 
-
-
-new new changes implemented
-
-
-something added
-
-
-added for test
+new line added
