@@ -7,3 +7,5 @@ new changes implemented (changed)
 new line added
 
 last change
+
+line 7
