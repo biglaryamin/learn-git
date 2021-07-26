@@ -8,7 +8,7 @@ new line added
 
 last change
 
-line 7
+line 7 (bug fixed)
 
 line 8
 line 9
