@@ -6,7 +6,7 @@ new changes implemented (changed)
 
 new line added
 
-last change
+last change (not last change)
 
 line 7 (bug fixed)
 
